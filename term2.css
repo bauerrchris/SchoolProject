@@ -1,19 +1,19 @@
 @charset "utf-8";
 
 body {
-    background-color: rgba(224, 137, 22, 0.884);
-    color: rgb(46, 55, 73);
+    background-color: #2f4f4f;
+    color: white;
     font-family: 'Times New Roman', Times, serif;
 }
 h1 {
-    color: rgb(46, 55, 73);
+    color: white;
     font-style: bold;
     text-shadow: 2px 2px 3px black;
     padding-bottom: 10px;
 }
 h2 {
   background-color: rgb(60, 93, 124);
-  color:  rgb(233, 218, 80);
+  color:  white;
   font-style: bold;
   padding-bottom: 16px;
   padding-top: 16px;
